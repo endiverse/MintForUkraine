@@ -39,17 +39,20 @@ payable(0x165CD37b4C644C2921454429E7F9358d18A45e14).transfer(balance);
 }
 Live Contracts:
 Ethereum: 0x12D6B6B7d5e26fFFB7AEA9906aD8dB22EB7F7481
-https://etherscan.io/.../0x12D6B6B7d5e26fFFB7AEA9906aD8dB...
-https://rarible.com/.../0x12d6b6b7d5e26fffb7aea9906.../items
+https://etherscan.io/address/0x12D6B6B7d5e26fFFB7AEA9906aD8dB22EB7F7481?fbclid=IwAR1bsqlMYaQ4iSIGj9IP3aW3HfFu6GStxdDcs8kF0O7BHjTpIDeRYXQ35yQ
+https://rarible.com/collection/0x12d6b6b7d5e26fffb7aea9906ad8db22eb7f7481/items?fbclid=IwAR15RctDDS6CVhQarQI3jtd5r4rw7MW2TGelNmWgRiZabMNjhUo8z2CtRXI
 https://opensea.io/collection/mint-for-ukraine
+
 Polygon: 0x12D6B6B7d5e26fFFB7AEA9906aD8dB22EB7F7481
-https://polygonscan.com/.../0x12D6B6B7d5e26fFFB7AEA9906aD...
+https://polygonscan.com/address/0x12D6B6B7d5e26fFFB7AEA9906aD8dB22EB7F7481?fbclid=IwAR3G4F1BhZPhWP2FBQUknvAkVl-2nYTxTkaFRUDTy0lRuxrV89njv73oatQ
 https://opensea.io/collection/mint-for-ukraine-polygon
+
 Testnets:
 Rinkeby: 0xA00486BFe696319DCBC97F1789b63693eC73df85
 https://testnets.opensea.io/collection/mint-for-ukraine
 https://rinkeby.rarible.com/mintforukraine/items
-https://rinkeby.etherscan.io/.../0xa00486bfe696319dcbc97f...
+https://rinkeby.etherscan.io/address/0xa00486bfe696319dcbc97f1789b63693ec73df85?fbclid=IwAR06YQn3LSqF5I9Nv7jUg4JbjKZE9vmjjitZ2jD7igbWnu6wFGk-nrakQV8
+
 Mumbai: 0xabFf1C4bD78f2B3ac806afdA51EF02ae3A543f0D
-https://mumbai.polygonscan.com/.../0xabFf1C4bD78f2B3ac806...
+https://mumbai.polygonscan.com/address/0xabFf1C4bD78f2B3ac806afdA51EF02ae3A543f0D?fbclid=IwAR1bsqlMYaQ4iSIGj9IP3aW3HfFu6GStxdDcs8kF0O7BHjTpIDeRYXQ35yQ#code
 https://testnets.opensea.io/colle.../mint-for-ukraine-mumbai
