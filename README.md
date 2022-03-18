@@ -14,7 +14,7 @@ The contracts are VERY SIMPLE, and VERIFIED!
 I have RENOUNCED OWNERSHIP of the CONTRACTS!
 
 Mint NFTs for Ukraine, all proceeds go directly to Ukraine, no middleman
-How to MINT FOR UKRAINE!
+**How to MINT FOR UKRAINE!**
 1. Pick the artwork you want to use. A flag, a photo, whatever..
 2. Upload your artwork to IPFS.
 3. Update the sample metadata file with your Image IPFS hash.
