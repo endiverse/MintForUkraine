@@ -27,8 +27,10 @@ Sample file here: ipfs://QmR8WZDTobS3uTMyt863rPMNCm8pGmi1Jm7JLAFSvmTW8u (Default
 Payable: 0.01 ETH or 10 MATIC per NFT (or more!)
 Number: number of NFTs to mint
 URI: ipfs:// hash of your metadata file.
+
 VIDEO: https://vimeo.com/688192627/0fb2eb9171
 There is no minting site currently, you can use etherscan to invoke the safemint function directly. (Watch the video!)
+
 All funds go to: https://etherscan.io/.../0x165cd37b4c644c2921454429e7f935...
 Withdraw function in the code
 function withdraw() public {
